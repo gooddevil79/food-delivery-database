@@ -1,14 +1,65 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "resturante": [
+    {
+      "resturanteName": "Pizza Hut Delicious Pizza",
+      "resturanteImage": "/img/res1.jpg",
+      "tags": ["Americans", "Fast food", "Burgers"]
+    },
+    {
+      "resturanteName": "Pizza Hut Delicious Pizza",
+      "resturanteImage": "/img/res2.jpg",
+      "tags": ["Americans", "Fast food", "Burgers"]
+    },
+    {
+      "resturanteName": "Pizza Hut Delicious Pizza",
+      "resturanteImage": "/img/res3.jpg",
+      "tags": ["Americans", "Fast food", "Burgers"]
+    },
+    {
+      "resturanteName": "Pizza Hut Delicious Pizza",
+      "resturanteImage": "/img/res4.jpg",
+      "tags": ["Americans", "Fast food", "Burgers"]
+    },
+    {
+      "resturanteName": "Pizza Hut Delicious Pizza",
+      "resturanteImage": "/img/res5.jpg",
+      "tags": ["Americans", "Fast food", "Burgers"]
+    },
+    {
+      "resturanteName": "Pizza Hut Delicious Pizza",
+      "resturanteImage": "/img/res6.jpg",
+      "tags": ["Americans", "Fast food", "Burgers"]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "categories": [
+    "Pizza",
+    "Breakfast",
+    "Japanese",
+    "Halal",
+    " Dessert",
+    "Lebanese",
+    "American",
+    "Sushi",
+    "Greek",
+    "Thai",
+    "Vegetarian",
+    "Italian",
+    "Mexican",
+    "Indian",
+    "Chinese",
+    "Breakfast",
+    "Burgers"
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "services": [
+    { "id": 1, "name": "Become a Delivery Man", "image": "/img/service1.jpg" },
+    { "id": 2, "name": "Become a Partner", "image": "/img/service2.jpg" },
+    { "id": 3, "name": "Try Android/IOS app", "image": "/img/service3.jpg" }
+  ],
+  "qualitu-features": [
+    {
+      "name": "",
+      "image": "//",
+      "description": "We’re driven beyond just finishing the projects. We want to find smart solutions."
+    }
+  ]
 }
