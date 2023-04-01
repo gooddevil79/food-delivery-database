@@ -2,32 +2,32 @@
   "resturante": [
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "/img/res1.jpg",
+      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res1.jpg" ,
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "/img/res2.jpg",
+      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res2.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "/img/res3.jpg",
+      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res3.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "/img/res4.jpg",
+      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res4.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "/img/res5.jpg",
+      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res5.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "/img/res6.jpg",
+      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res6.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     }
   ],
