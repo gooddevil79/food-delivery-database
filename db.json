@@ -2,32 +2,32 @@
   "resturante": [
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res1.jpg" ,
+      "resturanteImage": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/res1.jpg" ,
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Burger Hut Delicious Burger",
-      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res2.jpg",
+      "resturanteImage": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/res2.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res3.jpg",
+      "resturanteImage": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/res3.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res4.jpg",
+      "resturanteImage": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/res4.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res5.jpg",
+      "resturanteImage": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/res5.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "https://github.com/gooddevil79/food-delivery-database/blob/master/img/res6.jpg",
+      "resturanteImage": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/res6.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     }
   ],
