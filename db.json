@@ -51,9 +51,9 @@
     "Burgers"
   ],
   "services": [
-    { "id": 1, "name": "Become a Delivery Man", "image": "/img/service1.jpg" },
-    { "id": 2, "name": "Become a Partner", "image": "/img/service2.jpg" },
-    { "id": 3, "name": "Try Android/IOS app", "image": "/img/service3.jpg" }
+    { "id": 1, "name": "Become a Delivery Man", "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service3.jpg" ,description:"As a delivery driver, you'll make reliable money—working anytime, anywhere."},
+    { "id": 2, "name": "Become a Partner", "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service2.jpg", description:"Grow your business and reach new customers by partnering with us." },
+    { "id": 3, "name": "Try Android/IOS app", "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service1.jpg",description:"Get the best DoorDash experience with live order tracking." }
   ],
   "qualitu-features": [
     {
