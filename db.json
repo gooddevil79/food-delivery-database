@@ -2,7 +2,7 @@
   "resturante": [
     {
       "resturanteName": "Pizza Hut Delicious Pizza",
-      "resturanteImage": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/res1.jpg" ,
+      "resturanteImage": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/res1.jpg",
       "tags": ["Americans", "Fast food", "Burgers"]
     },
     {
@@ -51,23 +51,81 @@
     "Burgers"
   ],
   "services": [
-    { "id": 1, "name": "Become a Delivery Man", "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service3.jpg" ,"description":"As a delivery driver, you'll make reliable money—working anytime, anywhere."},
-    { "id": 2, "name": "Become a Partner", "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service2.jpg", "description":"Grow your business and reach new customers by partnering with us." },
-    { "id": 3, "name": "Try Android/IOS app", "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service1.jpg","description":"Get the best DoorDash experience with live order tracking." }
+    {
+      "id": 1,
+      "name": "Become a Delivery Man",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service3.jpg",
+      "description": "As a delivery driver, you'll make reliable money—working anytime, anywhere."
+    },
+    {
+      "id": 2,
+      "name": "Become a Partner",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service2.jpg",
+      "description": "Grow your business and reach new customers by partnering with us."
+    },
+    {
+      "id": 3,
+      "name": "Try Android/IOS app",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/service1.jpg",
+      "description": "Get the best DoorDash experience with live order tracking."
+    }
   ],
   "qualitu-features": [
     {
-      "name": "",
-      "image": "//",
+      "id": 1,
+      "name": "Analytics Business",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/74ac6f1951ae067076d0840a1f125fcf4b584757/img/f1.svg",
+      "description": "We’re driven beyond just finishing the projects. We want to find smart solutions."
+    },
+    {
+      "id": 2,
+      "name": "Wide Coverage Map",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/74ac6f1951ae067076d0840a1f125fcf4b584757/img/f2.svg",
+      "description": "We’re driven beyond just finishing the projects. We want to find smart solutions."
+    },
+    {
+      "id": 3,
+      "name": "Artificial Intelligence",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/74ac6f1951ae067076d0840a1f125fcf4b584757/img/f3.svg",
+      "description": "We’re driven beyond just finishing the projects. We want to find smart solutions."
+    },
+    {
+      "id": 4,
+      "name": "Largest People",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/74ac6f1951ae067076d0840a1f125fcf4b584757/img/f4.svg",
+      "description": "We’re driven beyond just finishing the projects. We want to find smart solutions."
+    },
+    {
+      "id": 5,
+      "name": "Trusted & Secure",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/74ac6f1951ae067076d0840a1f125fcf4b584757/img/f5.svg",
+      "description": "We’re driven beyond just finishing the projects. We want to find smart solutions."
+    },
+    {
+      "id": 6,
+      "name": "Mobile Apps",
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/74ac6f1951ae067076d0840a1f125fcf4b584757/img/f6.svg",
       "description": "We’re driven beyond just finishing the projects. We want to find smart solutions."
     }
+  ],
+  "clients": [
+    {
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-1.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-2.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-3.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-4.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-5.png"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-6.png"
+    }
   ]
-  ,
-  "clients":[{"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-1.png"},
-            {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-2.png"},
-             {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-3.png"},
-             {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-4.png"},
-             {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-5.png"},
-             {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-6.png"}
-            ]
 }
