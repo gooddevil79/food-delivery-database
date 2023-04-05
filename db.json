@@ -62,4 +62,12 @@
       "description": "We’re driven beyond just finishing the projects. We want to find smart solutions."
     }
   ]
+  ,
+  "clients":[{"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-1.png"},
+            {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-2.png"},
+             {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-3.png"},
+             {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-4.png"},
+             {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-5.png"},
+             {"image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-6.png"}
+            ]
 }
