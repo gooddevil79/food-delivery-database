@@ -70,7 +70,7 @@
       "description": "Get the best DoorDash experience with live order tracking."
     }
   ],
-  "qualitu-features": [
+  "features": [
     {
       "id": 1,
       "name": "Analytics Business",
@@ -126,26 +126,6 @@
     },
     {
       "image": "https://raw.githubusercontent.com/gooddevil79/food-delivery-database/master/img/client-6.png"
-    }
-  ],
-  "experiences": [
-    {
-      "image": ""
-    },
-    {
-      "image": ""
-    },
-    {
-      "image": ""
-    },
-    {
-      "image": ""
-    },
-    {
-      "image": ""
-    },
-    {
-      "image": ""
     }
   ]
 }
